@@ -24,6 +24,6 @@ System.out.println("Hello World");
 7. JavaScript
 
 **dream place to go**
-[x]Los Angeles
-[ ]Hawaii
-[ ]New York
+- [x]Los Angeles
+- [ ]Hawaii
+- [ ]New York
