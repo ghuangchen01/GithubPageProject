@@ -1,5 +1,6 @@
 # Guan Hao Huang Chen
-**Personal information**
+## Personal information
+[Go to Programmer information](# This is my User Page)
 > I am a cat person!!!
 ![Image](cat.jpg)
 
@@ -9,11 +10,13 @@
 - [ ]  New York
 - [x]  Cancun
 - [ ]  Paris
+
+## Programmer information
 My favorite code:
 ```
 System.out.println("Hello World");
 ```
-[Go to Header](# This is my User Page)
+
 [link to README file](README.md)
 
 **languages that I know**
