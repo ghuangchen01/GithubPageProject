@@ -1,11 +1,23 @@
 [Go to Personal information](## Personal information)
 <br/>
 [Go to Programmer information](## Programmer information)
+<br/>
 [Go to Other information](## Other information)
 # Guan Hao Huang Chen
 ## Personal information
 > I am a cat person!!!
+<br/>
 ![Image](cat.jpg)
+
+**About Me**
+- Location: San Diego
+- Education: Junior UCSD Undergraduate
+- Major: Computer Science
+
+**Hobbies**
+- read
+- soccer
+- swim
 
 **languages that I speak**
 - Spanish
@@ -20,7 +32,7 @@
 - [ ]  Paris
 
 ## Programmer information
-**First code I learn:**
+**First line of code I learn:**
 ```
 System.out.println("Hello World");
 ```
