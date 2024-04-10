@@ -1,7 +1,14 @@
-![Image](cat.jpg)
 # Guan Hao Huang Chen
 **Personal information**
-> As you can tell, I am a programmer
+> I am a cat person!!!
+![Image](cat.jpg)
+
+**Dream place to go**
+- [x]  Los Angeles
+- [ ]  Hawaii
+- [ ]  New York
+- [x]  Cancun
+- [ ]  Paris
 My favorite code:
 ```
 System.out.println("Hello World");
@@ -22,8 +29,3 @@ System.out.println("Hello World");
 5. HTML
 6. CSS
 7. JavaScript
-
-**dream place to go**
-- [x] Los Angeles
-- [ ] Hawaii
-- [ ] New York
