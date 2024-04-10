@@ -1,6 +1,6 @@
 ![Image](cat.jpg)
-# This is my User Page
-**I prefer not to have my image here so I put my cat, hope you like it.**
+# Guan Hao Huang Chen
+**Personal information**
 > As you can tell, I am a programmer
 My favorite code:
 ```
