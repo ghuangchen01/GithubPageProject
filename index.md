@@ -1,8 +1,8 @@
-[Go to Personal information](#Personal-information)
+[Go to Personal information](#personal-information)
 <br/>
-[Go to Programmer information](#Programmer-information)
+[Go to Programmer information](#programmer-information)
 <br/>
-[Go to Other information](#Other-information)
+[Go to Other information](#other-information)
 # Guan Hao Huang Chen
 ## Personal information
 > I am a cat person!!!
