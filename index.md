@@ -1,8 +1,15 @@
+[Go to Personal information](## Personal information)
+[Go to Programmer information](## Programmer information)
+[Go to Other information](## Other information)
 # Guan Hao Huang Chen
 ## Personal information
-[Go to Programmer information](# This is my User Page)
 > I am a cat person!!!
 ![Image](cat.jpg)
+
+**languages that I speak**
+- Spanish
+- English
+- Chinese
 
 **Dream place to go**
 - [x]  Los Angeles
@@ -12,19 +19,12 @@
 - [ ]  Paris
 
 ## Programmer information
-My favorite code:
+**First code I learn:**
 ```
 System.out.println("Hello World");
 ```
 
-[link to README file](README.md)
-
-**languages that I know**
--Spanish
--English
--Chinese
-
-**Programming Languages**
+**Programming Languages/skills**
 1. C++
 2. C
 3. Java
@@ -32,3 +32,6 @@ System.out.println("Hello World");
 5. HTML
 6. CSS
 7. JavaScript
+
+## Other information
+[link to README file](README.md)
