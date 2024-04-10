@@ -1,8 +1,8 @@
-[Go to Personal information](#Personal information)
+[Go to Personal information](#Personal-information)
 <br/>
-[Go to Programmer information](#Programmer information)
+[Go to Programmer information](#Programmer-information)
 <br/>
-[Go to Other information](#Other information)
+[Go to Other information](#Other-information)
 # Guan Hao Huang Chen
 ## Personal information
 > I am a cat person!!!
@@ -51,4 +51,4 @@ System.out.println("Hello World");
 <br/>
 [My GitHub](https://github.com/ghuangchen01)
 <br/>
-[My email](ghuangchen@ucsd.edu)
+Email: ghuangchen@ucsd.edu
